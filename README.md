@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kiran👋
 
-<!--
-**kiran-cse-dev/kiran-cse-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently learning C, programming fundamentals, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring software development and building my skills step by step.
+
+🚀 My goal is to build practical projects and grow as a software developer.
+
+## Currently Learning
+
+- C Programming
+- Programming Fundamentals
+- Problem Solving
+- Git & GitHub
+
+## Goals
+
+- Build meaningful projects
+- Strengthen my programming fundamentals
+- Learn new technologies
+- Build a strong software development portfolio
